@@ -9,6 +9,6 @@ namespace CricDB.Shared
     public class APIResponse
     {
         public Team[]? list { get; set; }
-        public String? appIndex {  get; set; } 
+        public AppIndex? appIndex {  get; set; } 
     }
 }

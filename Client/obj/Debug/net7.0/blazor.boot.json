@@ -198,15 +198,15 @@
       "mscorlib.dll": "sha256-8OmdVHzoN7xteY5ehp0L8R17I9QxFkH2lUVHFuslE0s=",
       "netstandard.dll": "sha256-urq+e2ZQXxmOWMRxTR92529HnUVu6+kyVnfF6SoLad8=",
       "System.Private.CoreLib.dll": "sha256-ixnF\/wVKLHZM1N0lfJufpZ41EC2LvvyiSqdW43h3Xew=",
-      "CricDB.Shared.dll": "sha256-fPXvq91RmONdi2Ca\/RQjXbqaP\/Qxv+fHoFNFW\/BxICA=",
-      "CricDB.Client.dll": "sha256-gb6AQ0YdqGW1Ahc35L3bSDvffzsYHFih81MilmnseCc="
+      "CricDB.Shared.dll": "sha256-VRBFx+MlXa8jHPnttXMsUlTdgu\/8ZfQRl\/7BmKgjKS0=",
+      "CricDB.Client.dll": "sha256-UP6QafSNaegZaDMXGPs9c0RG0qNWM0tQI6HTruorSDY="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "CricDB.Shared.pdb": "sha256-UZNAS\/c8z0AQuvE55O3TpJqypmnD7Utvi7HHy659364=",
-      "CricDB.Client.pdb": "sha256-nZVMz7HESUGZt5f+AoZyddeRHuGtJ0eyshiDZ5dNibo="
+      "CricDB.Shared.pdb": "sha256-E10qngJdPvKYFg90mlwr1HwNdeXyda8hFb2dd5O2\/0k=",
+      "CricDB.Client.pdb": "sha256-aB2BIGvLSi6lKntrfKArJkzc+CzlTsfKKE8xeFRhUQg="
     },
     "runtime": {
       "dotnet.7.0.12.bv2ygd0eff.js": "sha256-cPJgWy8SjMaYFeimGkYy23ls+rDZVmoC\/eMoHpqRc+4=",
