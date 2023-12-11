@@ -1,0 +1,22 @@
+C:\project\CricDB\Shared\bin\Debug\net7.0\CricDB.Shared.deps.json
+C:\project\CricDB\Shared\bin\Debug\net7.0\CricDB.Shared.dll
+C:\project\CricDB\Shared\bin\Debug\net7.0\CricDB.Shared.pdb
+C:\project\CricDB\Shared\obj\Debug\net7.0\CricDB.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\CricDB\Shared\obj\Debug\net7.0\CricDB.Shared.AssemblyInfoInputs.cache
+C:\project\CricDB\Shared\obj\Debug\net7.0\CricDB.Shared.AssemblyInfo.cs
+C:\project\CricDB\Shared\obj\Debug\net7.0\CricDB.Shared.csproj.CoreCompileInputs.cache
+C:\project\CricDB\Shared\obj\Debug\net7.0\CricDB.Shared.dll
+C:\project\CricDB\Shared\obj\Debug\net7.0\refint\CricDB.Shared.dll
+C:\project\CricDB\Shared\obj\Debug\net7.0\CricDB.Shared.pdb
+C:\project\CricDB\Shared\obj\Debug\net7.0\ref\CricDB.Shared.dll
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Shared\bin\Debug\net7.0\CricDB.Shared.deps.json
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Shared\bin\Debug\net7.0\CricDB.Shared.dll
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Shared\bin\Debug\net7.0\CricDB.Shared.pdb
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Shared\obj\Debug\net7.0\CricDB.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Shared\obj\Debug\net7.0\CricDB.Shared.AssemblyInfoInputs.cache
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Shared\obj\Debug\net7.0\CricDB.Shared.AssemblyInfo.cs
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Shared\obj\Debug\net7.0\CricDB.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Shared\obj\Debug\net7.0\CricDB.Shared.dll
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Shared\obj\Debug\net7.0\refint\CricDB.Shared.dll
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Shared\obj\Debug\net7.0\CricDB.Shared.pdb
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Shared\obj\Debug\net7.0\ref\CricDB.Shared.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CricDB.Server.props" />
+</Project>

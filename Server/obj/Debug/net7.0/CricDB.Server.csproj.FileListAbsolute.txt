@@ -1,0 +1,110 @@
+C:\project\CricDB\Server\bin\Debug\net7.0\CricDB.Client.staticwebassets.runtime.json
+C:\project\CricDB\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\project\CricDB\Server\bin\Debug\net7.0\appsettings.json
+C:\project\CricDB\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\project\CricDB\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\project\CricDB\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\project\CricDB\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\project\CricDB\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\project\CricDB\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\project\CricDB\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\project\CricDB\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\project\CricDB\Server\bin\Debug\net7.0\CricDB.Server.staticwebassets.runtime.json
+C:\project\CricDB\Server\bin\Debug\net7.0\CricDB.Server.exe
+C:\project\CricDB\Server\bin\Debug\net7.0\CricDB.Server.deps.json
+C:\project\CricDB\Server\bin\Debug\net7.0\CricDB.Server.runtimeconfig.json
+C:\project\CricDB\Server\bin\Debug\net7.0\CricDB.Server.dll
+C:\project\CricDB\Server\bin\Debug\net7.0\CricDB.Server.pdb
+C:\project\CricDB\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\project\CricDB\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\project\CricDB\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\project\CricDB\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\project\CricDB\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\project\CricDB\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\project\CricDB\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\project\CricDB\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\project\CricDB\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\project\CricDB\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\project\CricDB\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\project\CricDB\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\project\CricDB\Server\bin\Debug\net7.0\CricDB.Client.dll
+C:\project\CricDB\Server\bin\Debug\net7.0\CricDB.Shared.dll
+C:\project\CricDB\Server\bin\Debug\net7.0\CricDB.Client.pdb
+C:\project\CricDB\Server\bin\Debug\net7.0\CricDB.Shared.pdb
+C:\project\CricDB\Server\obj\Debug\net7.0\CricDB.Server.csproj.AssemblyReference.cache
+C:\project\CricDB\Server\obj\Debug\net7.0\CricDB.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\CricDB\Server\obj\Debug\net7.0\CricDB.Server.AssemblyInfoInputs.cache
+C:\project\CricDB\Server\obj\Debug\net7.0\CricDB.Server.AssemblyInfo.cs
+C:\project\CricDB\Server\obj\Debug\net7.0\CricDB.Server.csproj.CoreCompileInputs.cache
+C:\project\CricDB\Server\obj\Debug\net7.0\CricDB.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\project\CricDB\Server\obj\Debug\net7.0\CricDB.Server.RazorAssemblyInfo.cache
+C:\project\CricDB\Server\obj\Debug\net7.0\CricDB.Server.RazorAssemblyInfo.cs
+C:\project\CricDB\Server\obj\Debug\net7.0\staticwebassets\msbuild.CricDB.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\project\CricDB\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.CricDB.Server.props
+C:\project\CricDB\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CricDB.Server.props
+C:\project\CricDB\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CricDB.Server.props
+C:\project\CricDB\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\project\CricDB\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\project\CricDB\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\project\CricDB\Server\obj\Debug\net7.0\scopedcss\bundle\CricDB.Server.styles.css
+C:\project\CricDB\Server\obj\Debug\net7.0\CricDB.Server.csproj.CopyComplete
+C:\project\CricDB\Server\obj\Debug\net7.0\CricDB.Server.dll
+C:\project\CricDB\Server\obj\Debug\net7.0\refint\CricDB.Server.dll
+C:\project\CricDB\Server\obj\Debug\net7.0\CricDB.Server.pdb
+C:\project\CricDB\Server\obj\Debug\net7.0\CricDB.Server.genruntimeconfig.cache
+C:\project\CricDB\Server\obj\Debug\net7.0\ref\CricDB.Server.dll
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\CricDB.Client.staticwebassets.runtime.json
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\CricDB.Server.staticwebassets.runtime.json
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\CricDB.Server.exe
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\CricDB.Server.deps.json
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\CricDB.Server.runtimeconfig.json
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\CricDB.Server.dll
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\CricDB.Server.pdb
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\CricDB.Client.dll
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\CricDB.Shared.dll
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\CricDB.Client.pdb
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\bin\Debug\net7.0\CricDB.Shared.pdb
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\obj\Debug\net7.0\CricDB.Server.csproj.AssemblyReference.cache
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\obj\Debug\net7.0\CricDB.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\obj\Debug\net7.0\CricDB.Server.AssemblyInfoInputs.cache
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\obj\Debug\net7.0\CricDB.Server.AssemblyInfo.cs
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\obj\Debug\net7.0\CricDB.Server.csproj.CoreCompileInputs.cache
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\obj\Debug\net7.0\CricDB.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\obj\Debug\net7.0\CricDB.Server.RazorAssemblyInfo.cache
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\obj\Debug\net7.0\CricDB.Server.RazorAssemblyInfo.cs
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\obj\Debug\net7.0\staticwebassets\msbuild.CricDB.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.CricDB.Server.props
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CricDB.Server.props
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CricDB.Server.props
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\obj\Debug\net7.0\scopedcss\bundle\CricDB.Server.styles.css
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\obj\Debug\net7.0\CricDB.Server.csproj.CopyComplete
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\obj\Debug\net7.0\CricDB.Server.dll
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\obj\Debug\net7.0\refint\CricDB.Server.dll
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\obj\Debug\net7.0\CricDB.Server.pdb
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\obj\Debug\net7.0\CricDB.Server.genruntimeconfig.cache
+C:\Users\Mahnoor Atif\OneDrive - Technological University Dublin\2023-2024\C#\CA-3\Server\obj\Debug\net7.0\ref\CricDB.Server.dll
