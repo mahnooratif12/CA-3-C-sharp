@@ -1,12 +1,10 @@
-﻿@page "/cricTeam"
+﻿@page "/cricTeams"
 @using CricDB.Shared
 @inject HttpClient Http
 
 <PageTitle>Cricteamms </PageTitle>
 
-<h1>Cricket Team</h1>
-
-<p>This component demonstrates fetching data from the server.</p>
+<h1>National Cricket Teams</h1>
 
 @if (teams == null)
 {
@@ -14,7 +12,8 @@
 }
 else
 {
-    <table class="table">
+<div id="myDiv">
+    <table id="teamsTable" class="table">
         <thead>
             <tr>
                 <th>Team Id</th>
@@ -31,13 +30,19 @@ else
                     <td>@cricteam.teamId</td>
                     <td>@cricteam.teamName</td>
                     <td>@cricteam.teamSName</td>
-                    <td>@cricteam.imgeID</td>
+                    <td>@cricteam.imageId</td>
                     <td>@cricteam.countryName</td>
                 </tr>
             }
         </tbody>
     </table>
+    <script type="text/javascript">
+            $("#teamsTable").DataTable();
+    </script>
+    </div>
 }
+
+
 
 @code {
     private Team[]? teams;

@@ -1,0 +1,72 @@
+﻿@page "/cricPlayers"
+@using CricDB.Shared
+@inject HttpClient Http
+
+<h3>Cricplayers</h3>
+
+<PageTitle>Cricket Players</PageTitle>
+
+
+<p>This component demonstrates fetching data from the server.</p>
+
+@if (players == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Team ID</th>
+                <th>Players Name</th>
+                <th>Team Name</th>
+                <th>Face ImageId</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var cricplayer in players)
+            {
+                <tr>
+                    <td>@cricplayer.id</td>
+                    <td>@cricplayer.name</td>
+                    <td>@cricplayer.teamname</td>
+                    <td>@cricplayer.faceImgeId</td>
+                  
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private CricPlayer[]? players; 
+
+    protected override async Task OnInitializedAsync()
+    {
+        HttpClient client = new HttpClient();
+
+        client.BaseAddress = new Uri("https://cricbuzz-cricket.p.rapidapi.com/");
+        client.DefaultRequestHeaders.Accept.Clear();
+        client.DefaultRequestHeaders.Accept.Add(
+            new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue(
+                "application/json"));
+
+        client.DefaultRequestHeaders.Add("X-RapidAPI-Key",
+                            "4ab826901dmsh1496f40110feafap10adc5jsn28aeec5e3881");
+        client.DefaultRequestHeaders.Add("X-RapidAPI-Host",
+                            "cricbuzz-cricket.p.rapidapi.com");
+
+        HttpResponseMessage response = await client.GetAsync("/players/v1/international");
+
+        if (response.IsSuccessStatusCode)
+        {
+            String str = await response.Content.ReadAsStringAsync();
+            APIResponse apiResponse =
+                        System.Text.Json.JsonSerializer.Deserialize<APIResponse>(str);
+            // players = apiResponse.list;
+        }
+        Console.WriteLine(response.StatusCode);
+    }
+}

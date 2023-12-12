@@ -8,7 +8,7 @@ namespace CricDB.Shared
 
         public string? teamSName { get; set; }
 
-        public int imgeID { get; set; }
+        public int imageId { get; set; }
 
         public string? countryName {  get; set; }
     }
