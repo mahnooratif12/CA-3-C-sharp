@@ -2,9 +2,9 @@
 {
     public class CricPlayer
     {
-        public int id {  get; set; }
+        public string? id {  get; set; }
         public string? name { get; set; }
         public string? teamName {  get; set; }
-        public int faceImageId {  get; set; }
+        public string? faceImageId {  get; set; }
     }
 }

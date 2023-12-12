@@ -4,12 +4,7 @@
 
 <PageTitle>CricPlayer</PageTitle>
 
-
-
 <h1> Internation Cricket Players</h1>
-
-
-
 
 @if (players == null)
 {
@@ -17,7 +12,7 @@
 }
 else
 {
-    <table class="table">
+    <table id="playerTable" class="table">
         <thead>
             <tr>
                 <th>Team ID</th>
@@ -40,11 +35,10 @@ else
             }
         </tbody>
     </table>
-    <div>
     <script type="text/javascript">
-            $("#teamsTable").DataTable();
+        teamTable.clear.draw(); 
+        playerTable = $( " #playerTable").DataTable();
     </script>
-    </div>
 }
 
 @code {
@@ -54,7 +48,7 @@ else
     {
         HttpClient client = new HttpClient();
 
-        client.BaseAddress = new Uri("https://cricbuzz-cricket.p.rapidapi.com/stats/v1/player/trending");
+        client.BaseAddress = new Uri("https://cricbuzz-cricket.p.rapidapi.com/");
         client.DefaultRequestHeaders.Accept.Clear();
         client.DefaultRequestHeaders.Accept.Add(
             new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue(
@@ -67,19 +61,14 @@ else
 
         HttpResponseMessage response = await client.GetAsync("/stats/v1/player/trending");
 
-        Console.WriteLine(response.IsSuccessStatusCode);
-        Console.WriteLine(response.ToString()); 
-        Console.WriteLine(response); 
-
         if (response.IsSuccessStatusCode)
         {
-
             String str = await response.Content.ReadAsStringAsync();
             PlayerAPIReponse apiResponse =
                         System.Text.Json.JsonSerializer.Deserialize<PlayerAPIReponse>(str);
             Console.WriteLine(apiResponse);
-            players = apiResponse.list;
+            players = apiResponse.player;
         }
-        Console.WriteLine(response.StatusCode);
+     
     }
 }

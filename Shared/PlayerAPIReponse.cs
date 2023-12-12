@@ -8,7 +8,7 @@ namespace CricDB.Shared
 {
     public class PlayerAPIReponse
     {
-        public CricPlayer[]? list  {  get; set; }
+        public CricPlayer[]? player {  get; set; }
         public string category { get; set; }
     }
 }

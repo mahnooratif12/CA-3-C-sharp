@@ -12,7 +12,6 @@
 }
 else
 {
-<div id="myDiv">
     <table id="teamsTable" class="table">
         <thead>
             <tr>
@@ -37,9 +36,9 @@ else
         </tbody>
     </table>
     <script type="text/javascript">
-            $("#teamsTable").DataTable();
+        playerTable.clear().draw(); 
+        teamTable = ("#teamsTable").DataTable();
     </script>
-    </div>
 }
 
 
