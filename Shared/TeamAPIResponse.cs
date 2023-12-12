@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CricDB.Shared
 {
-    public class APIResponse
+    public class TeamAPIResponse
     {
         public Team[]? list { get; set; }
         public AppIndex? appIndex {  get; set; } 

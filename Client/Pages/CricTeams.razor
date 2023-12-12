@@ -67,8 +67,8 @@ else
         if (response.IsSuccessStatusCode)
         {
             String str = await response.Content.ReadAsStringAsync();
-            APIResponse apiResponse = 
-                        System.Text.Json.JsonSerializer.Deserialize<APIResponse>(str);
+            TeamAPIResponse apiResponse = 
+                        System.Text.Json.JsonSerializer.Deserialize<TeamAPIResponse>(str);
             teams = apiResponse.list;  
         }
         Console.WriteLine(response.StatusCode); 

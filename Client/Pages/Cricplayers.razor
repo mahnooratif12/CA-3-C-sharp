@@ -2,12 +2,14 @@
 @using CricDB.Shared
 @inject HttpClient Http
 
-<h3>Cricplayers</h3>
-
-<PageTitle>Cricket Players</PageTitle>
+<PageTitle>CricPlayer</PageTitle>
 
 
-<p>This component demonstrates fetching data from the server.</p>
+
+<h1> Internation Cricket Players</h1>
+
+
+
 
 @if (players == null)
 {
@@ -31,13 +33,18 @@ else
                 <tr>
                     <td>@cricplayer.id</td>
                     <td>@cricplayer.name</td>
-                    <td>@cricplayer.teamname</td>
-                    <td>@cricplayer.faceImgeId</td>
+                    <td>@cricplayer.teamName</td>
+                    <td>@cricplayer.faceImageId</td>
                   
                 </tr>
             }
         </tbody>
     </table>
+    <div>
+    <script type="text/javascript">
+            $("#teamsTable").DataTable();
+    </script>
+    </div>
 }
 
 @code {
@@ -47,7 +54,7 @@ else
     {
         HttpClient client = new HttpClient();
 
-        client.BaseAddress = new Uri("https://cricbuzz-cricket.p.rapidapi.com/");
+        client.BaseAddress = new Uri("https://cricbuzz-cricket.p.rapidapi.com/stats/v1/player/trending");
         client.DefaultRequestHeaders.Accept.Clear();
         client.DefaultRequestHeaders.Accept.Add(
             new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue(
@@ -58,14 +65,20 @@ else
         client.DefaultRequestHeaders.Add("X-RapidAPI-Host",
                             "cricbuzz-cricket.p.rapidapi.com");
 
-        HttpResponseMessage response = await client.GetAsync("/players/v1/international");
+        HttpResponseMessage response = await client.GetAsync("/stats/v1/player/trending");
+
+        Console.WriteLine(response.IsSuccessStatusCode);
+        Console.WriteLine(response.ToString()); 
+        Console.WriteLine(response); 
 
         if (response.IsSuccessStatusCode)
         {
+
             String str = await response.Content.ReadAsStringAsync();
-            APIResponse apiResponse =
-                        System.Text.Json.JsonSerializer.Deserialize<APIResponse>(str);
-            // players = apiResponse.list;
+            PlayerAPIReponse apiResponse =
+                        System.Text.Json.JsonSerializer.Deserialize<PlayerAPIReponse>(str);
+            Console.WriteLine(apiResponse);
+            players = apiResponse.list;
         }
         Console.WriteLine(response.StatusCode);
     }
