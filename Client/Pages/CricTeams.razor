@@ -12,33 +12,35 @@
 }
 else
 {
-    <table id="teamsTable" class="table">
-        <thead>
-            <tr>
-                <th>Team Id</th>
-                <th>Team Name</th>
-                <th>Team Short Name</th>
-                <th>Image ID</th>
-                <th>Country Name</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var cricteam in teams)
-            {
+    <div id="teamDiv">
+        <table id="teamsTable" class="table">
+            <thead>
                 <tr>
-                    <td>@cricteam.teamId</td>
-                    <td>@cricteam.teamName</td>
-                    <td>@cricteam.teamSName</td>
-                    <td>@cricteam.imageId</td>
-                    <td>@cricteam.countryName</td>
+                    <th>Team Id</th>
+                    <th>Team Name</th>
+                    <th>Team Short Name</th>
+                    <th>Image ID</th>
+                    <th>Country Name</th>
                 </tr>
-            }
-        </tbody>
-    </table>
-    <script type="text/javascript">
-        playerTable.clear().draw(); 
-        teamTable = ("#teamsTable").DataTable();
-    </script>
+            </thead>
+            <tbody>
+                @foreach (var cricteam in teams)
+                {
+                    <tr>
+                        <td>@cricteam.teamId</td>
+                        <td>@cricteam.teamName</td>
+                        <td>@cricteam.teamSName</td>
+                        <td>@cricteam.imageId</td>
+                        <td>@cricteam.countryName</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <script type="text/javascript">
+            teamTable = $("#teamsTable").DataTable();
+            $("#playerDiv").hide();
+        </script>
+    </div>
 }
 
 
